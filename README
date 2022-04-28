@@ -1,0 +1,7 @@
+Original code from https://github.com/VolosR/TTGOWeatherStation
+
+Migrated to PlatformIO
+
+to init libraries:
+    
+git submodule update --init --recursive
