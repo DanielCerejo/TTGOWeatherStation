@@ -4,3 +4,12 @@
 [submodule "lib/NTPClient"]
 	path = lib/NTPClient
 	url = https://github.com/taranais/NTPClient.git
+[submodule "lib/TJpg_Decoder"]
+	path = lib/TJpg_Decoder
+	url = https://github.com/Bodmer/TJpg_Decoder.git
+[submodule "lib/SimpleMap"]
+	path = lib/SimpleMap
+	url = https://github.com/spacehuhn/SimpleMap.git
+[submodule "lib/18650CL"]
+	path = lib/18650CL
+	url = https://github.com/pangodream/18650CL.git
